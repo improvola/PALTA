@@ -20,7 +20,7 @@ body{
     content: "Participaciones Ambientales de Latinoamerica Transformada y Asociadas";
   }
   
-  @media (max-width:991px) and (min-width:450px) {
+  @media (max-width:991px) and (min-width:350px) {
       #texto:before {
           content: "PALTA";
           font-size: 1.5em ;
